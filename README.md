@@ -40,6 +40,6 @@ Manage your listings: If you're a property owner or agent, use the dashboard to 
 
 Contact property owners/agents: Use the contact forms on property pages to reach out to owners or agents for more information or to schedule a viewing.
 
-Thank you for using my Real Estate Web Application! We hope it helps you find the perfect property.
+Thank you for using my Real Estate Web Application! I hope it helps you find the perfect property.
 
 Happy house hunting!
